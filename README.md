@@ -1,2 +1,0 @@
-# yrmr
-Software Design Project
